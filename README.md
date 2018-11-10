@@ -2,7 +2,7 @@
 
 Descending|Interval|Ascending                                                                                            
 ----------|--------|---------                                                                                            
-Jaws|Minor Second|Joy to the World                                                                                       
+Joy to the World|Minor Second|Jaws                                                                                       
 Three Blind Mice|Major Second|Happy Birthday                                                                             
 Hey Jude|Minor Third|[Greensleeves](https://youtu.be/P5ItNxpwChE)                                                                                        
 Beethoven's 5th|Major Third|When the Saints Go Marching In                                                               

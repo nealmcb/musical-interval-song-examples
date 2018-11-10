@@ -10,7 +10,7 @@ Adeste Fideles|Perfect Fourth|Here Comes the Bride
 [Turn Back Oh Man](https://youtu.be/OGPCQ13aHLk?t=13)|Tritone|Maria                                                      
 What Do You Do With A Drunken Sailor?|Perfect Fifth|Twinkle Twinkle                                                      
 Where Do I Begin (Love Story)|Minor Sixth|The Entertainer , [Fire](https://youtu.be/FQLGhPHzxjc?t=107)                                                               
-Crazy (Cline)|Major SIxth| My Bonnie Lies Over the Ocean                                                                 
+[Crazy (Cline)](https://youtu.be/6QEDb3xzdec?t=16)|Major SIxth| My Bonnie Lies Over the Ocean                                                                 
 [An American in Paris](https://youtu.be/KU1X3Wut-k0)|Minor Seventh| Somewhere (West Side Story)                                                          
 [I Love You (Cole Porter)](https://youtu.be/nXIXknT-iQ8)|Major Seventh|[Take On Me](https://youtu.be/djV11Xbc914?t=56)                                                                        
 |Octave| Somewhere Over the Rainbow

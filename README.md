@@ -7,7 +7,7 @@ Three Blind Mice|Major Second|Happy Birthday
 Hey Jude|Minor Third|Greensleeves                                                                                        
 Beethoven's 5th|Major Third|When the Saints Go Marching In                                                               
 Adeste Fideles|Perfect Fourth|Here Comes the Bride                                                                       
-[Turn Back Oh Man](https://youtu.be/OGPCQ13aHLk?t=15)|Tritone|Maria                                                      
+[Turn Back Oh Man](https://youtu.be/OGPCQ13aHLk?t=13)|Tritone|Maria                                                      
 What Do You Do With A Drunken Sailor?|Perfect Fifth|Twinkle Twinkle                                                      
 Where Do I Begin (Love Story)|Minor Sixth|The Entertainer                                                                
 Crazy (Cline)|Major SIxth| My Bonnie Lies Over the Ocean                                                                 
